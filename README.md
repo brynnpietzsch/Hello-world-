@@ -9,7 +9,7 @@ First Repository
 ## Project Title  
 
 "Hello world Sample - My First Repository"  
-  
-  ##Description  
+
+## Description  
 
 This is my project desription 
