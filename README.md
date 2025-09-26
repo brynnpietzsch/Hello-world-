@@ -12,7 +12,7 @@ First Repository
 
 ### Project Title  
 
-"Hello world Sample - My First Repository"  
+*"Hello world Sample - My First Repository"*  
 
 ### Description  
 
