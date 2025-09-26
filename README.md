@@ -1,7 +1,7 @@
 # Hello-World-
 First Repository   
 
-### Table of Contents  
+## Table of Contents  
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -10,26 +10,26 @@ First Repository
 - [HOW TO RUN PROGRAM](#How-to-Run-Program)
 - [ADDITIONAL INFORMATION](#Additional-Information)
 
-## Project Title  
+### Project Title  
 
 "Hello world Sample - My First Repository"  
 
-## Description  
+### Description  
 
 This is my project desription 
 
-## Tools Used
+### Tools Used
 
 these are the tools I used
 
-## Files Used
+### Files Used
 
 These are the files I used
 
-## How to Run Program 
+### How to Run Program 
 
 This is how to run the program
 
-## Additional Information
+### Additional Information
 
 Here is additional information
